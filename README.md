@@ -1,1 +1,1 @@
-# postgresql-ha-medium
+# Lien vers medium: https://medium.com/@amadoudiao72/comment-jai-mis-en-place-un-cluster-postgresql-hautement-disponible-en-production-686f3067dc83
